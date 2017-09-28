@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\wk2\wk21\bin\Debug\wk21.exe.config
+c:\users\user\documents\visual studio 2012\Projects\wk2\wk21\bin\Debug\wk21.exe
+c:\users\user\documents\visual studio 2012\Projects\wk2\wk21\bin\Debug\wk21.pdb
+c:\users\user\documents\visual studio 2012\Projects\wk2\wk21\obj\Debug\wk21.exe
+c:\users\user\documents\visual studio 2012\Projects\wk2\wk21\obj\Debug\wk21.pdb
